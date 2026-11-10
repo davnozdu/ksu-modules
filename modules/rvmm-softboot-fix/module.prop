@@ -1,0 +1,6 @@
+id=rvmm-softboot-fix
+name=RVMM Soft-boot Fix
+version=v1.0
+versionCode=1
+author=local
+description=Keeps j-hc root modules (YouTube Morphe etc.) working with exploit root + soft restart: reinstalls stock app, restores data, remounts after boot.
